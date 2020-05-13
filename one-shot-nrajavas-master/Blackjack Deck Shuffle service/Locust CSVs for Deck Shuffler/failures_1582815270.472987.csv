@@ -1,0 +1,7 @@
+"Method","Name","Error","Occurrences"
+"play","long","[Errno 54] Connection reset by peer",272
+"play","long","[Errno 24] Too many open files",16278
+"play","short","[Errno 24] Too many open files",37825
+"play","short","[Errno 54] Connection reset by peer",618
+"play","long","[Errno 8] nodename nor servname provided, or not known",4884
+"play","short","[Errno 8] nodename nor servname provided, or not known",11379

@@ -1,0 +1,9 @@
+"Method","Name","Error","Occurrences"
+"capitalize","long","[Errno 54] Connection reset by peer",489
+"capitalize","long","[Errno 8] nodename nor servname provided, or not known",3781
+"capitalize","long","[Errno 24] Too many open files",10869
+"play","short","[Errno 24] Too many open files",25350
+"play","short","[Errno 54] Connection reset by peer",1142
+"play","short","[Errno 8] nodename nor servname provided, or not known",8586
+"capitalize","long","[Errno 32] Broken pipe",109
+"play","short","[Errno 32] Broken pipe",182
