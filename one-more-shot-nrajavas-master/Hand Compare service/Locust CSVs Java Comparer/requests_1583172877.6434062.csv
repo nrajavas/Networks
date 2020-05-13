@@ -1,0 +1,4 @@
+"Type","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s","Requests Failed/s","50%","66%","75%","80%","90%","95%","98%","99%","99.9%","99.99%","99.999","100%"
+"play","long",16697,15890,0,0,0,0,13,723.56,688.59,0,0,0,0,0,0,0,0,0,0,0,0
+"play","short",39092,20458,0,0,0,0,120,1694.04,886.54,0,0,0,0,0,0,0,0,0,0,0,0
+"None","Aggregated",55789,36348,0,0,0,0,88,2417.59,1575.13,0,0,0,0,0,0,0,0,0,0,0,0
